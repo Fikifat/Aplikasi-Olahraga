@@ -21,7 +21,8 @@ Relasi Antar Table
 
 Database
 
-![Uploading Screenshot 2025-01-08 232020.png…]()
+
+![Screenshot 2025-01-08 232020](https://github.com/user-attachments/assets/9f25af1a-5ea2-463c-9c03-5953b53afdc5)
 
 
 
