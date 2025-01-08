@@ -26,6 +26,9 @@ Pemilihan jurnal ini dikarenakan menawarkan solusi pembelajaran jarak jauh untuk
 
 Metode Agile Scrum dipilih karena mampu memberikan transparansi, inspeksi, dan adaptasi selama proses pengembangan. Tahapan dalam metode ini mencakup requirement analysis, product backlog, sprint backlog, to do list, sprint, sprint review, dan sprint retrospective, yang semuanya dirancang untuk memastikan pengembangan berjalan secara efektif dan sesuai kebutuhan.
 
+![Screenshot 2025-01-09 022143](https://github.com/user-attachments/assets/af2addf0-8817-4f53-9a0d-a0cc3fe97930)
+
+
 Alasan penggunaan Agile Development dalam pengembangan aplikasi pembelajaran olahraga ini, seperti dijelaskan dalam jurnal, mencakup beberapa faktor utama yang mendukung fleksibilitas, adaptasi, dan kolaborasi yang baik antara tim pengembang dan klien. Berikut adalah alasannya:
 
 1. Adaptasi Terhadap Perubahan Kebutuhan
